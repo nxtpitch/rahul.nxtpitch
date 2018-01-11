@@ -1,3 +1,2 @@
-# rahul.nxtpitch
-
-Source code for Rahul Sheth's NXTPitch Domain
+# aniveera1.github.io
+Source code for my personal website
